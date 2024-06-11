@@ -1,0 +1,17 @@
+.venv
+
+.idea
+.vscode
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+divideChar
+
+model/pth
+
+model/pth/computer_1500.pth
+model/pth/computer_2000_turn20_99.pth
+model/pth/handWriting.pth
+model/pth/computer.pth
